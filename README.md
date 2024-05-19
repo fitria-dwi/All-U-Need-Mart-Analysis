@@ -2,7 +2,7 @@
 
 Created by Fitria Dwi Wulandari – March 12, 2024
 
-### **Project Background**
+#### **Project Background**
 All-U-Need Mart is a retail company specializing in selling daily necessities with three branches across three cities in Myanmar. As the company prepares to welcome the new quarter, the Board of Directors has tasked the Business Intelligence and Data Analysis team with gathering crucial information from the previous period. This data will serve as the foundation for formulating strategic initiatives aimed at driving growth, optimizing operations, and enhancing customer satisfaction in the upcoming quarter.
 
 #### **Methodology**
