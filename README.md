@@ -32,8 +32,7 @@ This project seeks to drive growth, optimize operations, and enhance customer sa
 The analysis will provide the insights necessary to inform strategic decisions and ensure continued success for All-U-Need Mart. Key findings will include trends in sales performance, customer segmentation insights, and actionable recommendations for driving growth and enhancing customer satisfaction.
 
 ### **Future Work**
-* **Extended Analysis**: Include more variables and data sources for a comprehensive understanding of sales and delivery performance.
-* **Model Improvement**: Explore more advanced analytical techniques.
+* **Advanced Analysis**: Explore advanced analytics techniques for deeper insights into customer behavior and market trends.
 
 ### Repository Contents
 * [**Dashboard**](https://public.tableau.com/views/All-U-NeedMartDashboard/Summary?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link): Tableau dashboards visualizing the key insights and metrics.
